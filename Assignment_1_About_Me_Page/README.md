@@ -20,11 +20,14 @@ The following **bonus** features are implemented:
 
 - [ ] Applies different font(s). 
 - [ ] Applies border and margins. 
-- [ ] //Button Uses with Links, Curating an Icon in the Tab of Page with Title//DESCRIBE ANY OTHER FEATURES HERE. 
+- [ ] Button Uses with Links
+- [ ] Curating an Icon in the Tab of Page with Title
+- [ ] Background Scrolling
+- [ ] //DESCRIBE ANY OTHER FEATURES HERE. 
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="Screenshot 1.png" title='ScreenShot 1' width='1664' alt='Screenshot of first Webpage' />
+<img src="Screenshot1.png" title='ScreenShot 1' width='1664' alt='Screenshot of first Webpage' />
 
 
 ## Notes:
