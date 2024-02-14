@@ -3,7 +3,7 @@
 PROVIDE OVERVIEW OF ASSIGNMENT HERE
 //Curating an HTML page and CSS styling page with mutiple feautres to showcase the current standing of learning so far!
 
-Time spent:/SO FAR:1hr and 40mins/**NUMBER_HOURS_SPENT** hours spent in total
+Time spent: 4 hours and 30 minutes
 
 ## Features
 
