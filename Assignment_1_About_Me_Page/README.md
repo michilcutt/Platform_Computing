@@ -10,20 +10,21 @@ Time spent:/SO FAR:1hr and 40mins/**NUMBER_HOURS_SPENT** hours spent in total
 The following **required** features are completed:
 
 - [x] Modifies title in head so that the tab has a unique name, (e.g. About Me). (1pts)
-- [ ] Uses a mix of headers, paragraphs, and div's. (3pts)
-- [ ] Includes at least 3 paragraphs. (3pts)
-- [ ] Includes at least one image. (2pts)
-- [ ] Includes a .css file to style with at least 4 ways to format the elements in the html. (3pts)
+- [x] Uses a mix of headers, paragraphs, and div's. (3pts)
+- [x] Includes at least 3 paragraphs. (3pts)
+- [x] Includes at least one image. (2pts)
+- [x] Includes a .css file to style with at least 4 ways to format the elements in the html. (3pts)
 - [x] Includes a link that directs to your Github account (can be main account or specifically to your Platform_Computing Repo). (3pts)
 
 The following **bonus** features are implemented:
 
-- [ ] Applies different font(s). 
-- [ ] Applies border and margins. 
-- [ ] Button Uses with Links
-- [ ] Curating an Icon in the Tab of Page with Title
-- [ ] Background Scrolling
-- [ ] //DESCRIBE ANY OTHER FEATURES HERE. 
+- [x] Applies different font(s). 
+- [x] Applies border and margins. 
+- [x] Button Uses with Links
+- [x] Curating an Icon in the Tab of Page with Title
+- [x] Background Scrolling
+- [x] Added Footer for Copyright
+- [x] //DESCRIBE ANY OTHER FEATURES HERE. 
 
 ## Screenshot and/or Video Walkthrough
 
@@ -33,6 +34,6 @@ The following **bonus** features are implemented:
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
 <ul>
-  <li>**Example in bold**</li>
-  <li>*Example in italics*</li>
+  <li>**No Notes**</li>
+  <li>*NO Notes*</li>
 </ul>
