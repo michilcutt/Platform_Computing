@@ -27,15 +27,15 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="Assignment_1_About_Me_Page/Images/Screenshot1.png" title='ScreenShot 1' width='3456' alt='Screenshot of first Webpage' />
-<img src="Assignment_1_About_Me_Page/Images/Screenshot2.png" title='ScreenShot 2' width='3456' alt='Screenshot of first Webpage' />
-<img src="Assignment_1_About_Me_Page/Images/Screenshot3.png" title='ScreenShot 3' width='3456' alt='Screenshot of first Webpage' />
-<img src="Assignment_1_About_Me_Page/Images/Screenshot4.png" title='ScreenShot 4' width='3456' alt='Screenshot of first Webpage' />
+<img src="/Images/Screenshot1.png" title='ScreenShot 1' width='3456' alt='Screenshot of first Webpage' />
+<img src="/Images/Screenshot2.png" title='ScreenShot 2' width='3456' alt='Screenshot of first Webpage' />
+<img src="/Images/Screenshot3.png" title='ScreenShot 3' width='3456' alt='Screenshot of first Webpage' />
+<img src="/Images/Screenshot4.png" title='ScreenShot 4' width='3456' alt='Screenshot of first Webpage' />
 
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
 <ul>
   <li>**No Notes**</li>
-  <li>*NO Notes*</li>
+  <li>*No Notes*</li>
 </ul>
