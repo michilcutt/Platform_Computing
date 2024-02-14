@@ -27,7 +27,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="Screenshot1" title='ScreenShot 1' width='3456' alt='First Screenshot of first Webpage' />
+<img src="(https://github.com/michilcutt/Platform_Computing/assets/145288129/7e841f29-48f0-4990-a4f0-ea72000d8b94)" title='ScreenShot 1' width='3456' alt='First Screenshot of first Webpage' />
 <img src="Screenshot2" title='ScreenShot 2' width='3456' alt='Second Screenshot of first Webpage' />
 <img src="Screenshot3" title='ScreenShot 3' width='3456' alt='Third Screenshot of first Webpage' />
 <img src="Screenshot4" title='ScreenShot 4' width='3456' alt='Fourth Screenshot of first Webpage' />
