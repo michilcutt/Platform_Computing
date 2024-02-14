@@ -1,7 +1,6 @@
 # About Me
 
-PROVIDE OVERVIEW OF ASSIGNMENT HERE
-//Curating an HTML page and CSS styling page with mutiple feautres to showcase the current standing of learning so far!
+Curating an HTML page and CSS styling page with mutiple feautres to showcase the current standing of learning so far and introducing myself!
 
 Time spent: 4 hours and 30 minutes
 
