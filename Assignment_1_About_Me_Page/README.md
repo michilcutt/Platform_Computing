@@ -27,10 +27,10 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="/Images/README.md" title='ScreenShot 1' width='3456' alt='Screenshot of first Webpage' />
-<img src="/Images/README.md" title='ScreenShot 2' width='3456' alt='Screenshot of first Webpage' />
-<img src="/Images/README.md" title='ScreenShot 3' width='3456' alt='Screenshot of first Webpage' />
-<img src="/Images/README.md" title='ScreenShot 4' width='3456' alt='Screenshot of first Webpage' />
+<img src="README.md" title='ScreenShot 1' width='3456' alt='Screenshot of first Webpage' />
+<img src="README.md" title='ScreenShot 2' width='3456' alt='Screenshot of first Webpage' />
+<img src="README.md" title='ScreenShot 3' width='3456' alt='Screenshot of first Webpage' />
+<img src="README.md" title='ScreenShot 4' width='3456' alt='Screenshot of first Webpage' />
 
 
 ## Notes:
