@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="Screenshot 1" title='ScreenShot 1' width='1664' alt='Screenshot of first Webpage' />
+<img src="Screenshot 1.png" title='ScreenShot 1' width='1664' alt='Screenshot of first Webpage' />
 
 
 ## Notes:
