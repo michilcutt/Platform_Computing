@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="C:\Users\Shelly\Downloads\Platform Computing\Assignment #1\Screenshot 1.png" title='ScreenShot 1' width='10' alt='Screenshot of first Webpage' />
+<img src="C:\Users\Shelly\Downloads\Platform Computing\Assignment #1\Screenshot 1.png" title='ScreenShot 1' width='1664' alt='Screenshot of first Webpage' />
 
 
 ## Notes:
