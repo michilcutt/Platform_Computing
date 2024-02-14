@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="[Screenshot 1](https://github.com/michilcutt/Platform_Computing/assets/145288129/5bf026d6-1514-4a29-bda3-2760fea3e070)" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<img src="C:\Users\Shelly\Downloads\Platform Computing\Assignment #1\Screenshot 1.png" title='ScreenShot 1' width='10' alt='Screenshot of first Webpage' />
 
 
 ## Notes:
