@@ -27,7 +27,10 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="Screenshot1.png" title='ScreenShot 1' width='1664' alt='Screenshot of first Webpage' />
+<img src="Screenshot1.png" title='ScreenShot 1' width='3456' alt='Screenshot of first Webpage' />
+<img src="Screenshot2.png" title='ScreenShot 2' width='3456' alt='Screenshot of first Webpage' />
+<img src="Screenshot3.png" title='ScreenShot 3' width='3456' alt='Screenshot of first Webpage' />
+<img src="Screenshot4.png" title='ScreenShot 4' width='3456' alt='Screenshot of first Webpage' />
 
 
 ## Notes:
