@@ -1,8 +1,8 @@
 # Metric Tracker
 
-PROVIDE OVERVIEW OF ASSIGNMENT HERE
+Learning how to program React and how to convert HTML to React. While also learning abut the tracking usage of a website on different platforms. Using different concepts of metric trackers, we do that here.
 
-Time spent: **NUMBER_HOURS_SPENT** hours spent in total
+Time spent: **SO FAR: 4 HOURS** hours spent in total
 
 ## Features
 
@@ -18,6 +18,8 @@ The following **bonus** features are implemented:
 
 - [ ] Saves metrics into csv file (1 pt)
 - [ ] Monitors at least 4 metrics (1 pt)
+- [x] Updated my Button Look for Github
+- [x] Updated Logo of React-App to Personal Taste
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
