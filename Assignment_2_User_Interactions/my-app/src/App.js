@@ -1,20 +1,21 @@
-import logo from './logo.gif';
+import React from 'react';
+import logo from './githublink.png';
+import button from './coraline.jpg';
+import divider from './divider.gif';
 import './App.css';
 
 function App() {
     return (
-    <div className="App">
+        <div className="App">
             <header className="App-header">
-            <img src={logo} className="App-logo" alt="logo" />
-        <a
-          className="App-link"
-          href="https://github.com/michilcutt/Platform_Computing.git"
-          target="_blank"
-                    rel="noopener noreferrer"
-                    img src="githublink.jpg" alt="cute doggo">
-        </a>
-      </header>
-    </div>
+                <img src={button} className="App-logo" alt="logo" />
+            </header>
+            <a href="https://github.com/michilcutt/Platform_Computing.git" target="_blank">
+                <button>
+                    <img src={logo} className="GITHUB-LOGO" width="50" alt="GITHUB"></img>
+                    </button>
+                    </a>
+        </div>/*Creating a github link button & changing react logo from before*/
     );
     function First() {
         return (
@@ -30,12 +31,19 @@ function App() {
                     hard journey: coffee(put emoji here), animals(put emoji here), and new surroundings. Along with
                     these new surroundings, new interests came as well.
                 </p>
-          /**creating a github link button*/
-                <a href="https://github.com/michilcutt/Platform_Computing/tree/main" target="_blank"></a>
-                <button onclick="window.location.href='https://github.com/michilcutt/Platform_Computing.git'">Github</button>
             </div>
+            
         );
+        function Divider() {
+            return (
+                /*putting images here to make aesthetic breaks in between paragraphs*/
+                <div className="Divider">
+                        <img src={divider} className="Divider" width="50" alt="Cute Gif"></img>
+                </div>
+                /*note: width and height cannot be changed
+         in css when width here has a value*/
+            );
+        }
+        }
     }
-}
-
-export default App;
+    export default App;
