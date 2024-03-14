@@ -1,5 +1,5 @@
 just a place to put those screenshots
-![Screenshot (240)](https://github.com/michilcutt/Platform_Computing/assets/145288129/a5c18679-6bd7-4af5-a201-a33889c7c552)
-![Screenshot (241)](https://github.com/michilcutt/Platform_Computing/assets/145288129/351897a0-ea6f-4314-8369-445c434365e4)
-![Screenshot (242)](https://github.com/michilcutt/Platform_Computing/assets/145288129/d28db00e-d95b-44bb-afbc-557a8bea1597)
-![Screenshot (243)](https://github.com/michilcutt/Platform_Computing/assets/145288129/c608b9ca-6840-4ea4-9eb1-8a9b495c7ed5)
+![Screenshot (240)](https://github.com/michilcutt/Platform_Computing/assets/145288129/f3e71248-37bc-4a91-bcbe-8482c2316bfa)
+![Screenshot (241)](https://github.com/michilcutt/Platform_Computing/assets/145288129/f5117f18-eba6-46bb-89c3-d129566411d0)
+![Screenshot (242)](https://github.com/michilcutt/Platform_Computing/assets/145288129/cee5e42d-fabd-452e-8e78-2743b3d4f501)
+![Screenshot (243)](https://github.com/michilcutt/Platform_Computing/assets/145288129/209a7194-3c86-4eb0-b9de-daf901a7601e)
