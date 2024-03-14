@@ -2,7 +2,7 @@
 
 Learning how to program React and how to convert HTML to React. While also learning abut the tracking usage of a website on different platforms. Using different concepts of metric trackers, we do that here.
 
-Time spent: **SO FAR: 4 HOURS** hours spent in total
+Time spent: **SO FAR: 11 HOURS** hours spent in total
 
 ## Features
 
@@ -31,7 +31,7 @@ The following **bonus** features are implemented:
 ![Screenshot (241)](https://github.com/michilcutt/Platform_Computing/assets/145288129/f5117f18-eba6-46bb-89c3-d129566411d0)
 ![Screenshot (242)](https://github.com/michilcutt/Platform_Computing/assets/145288129/cee5e42d-fabd-452e-8e78-2743b3d4f501)
 ![Screenshot (243)](https://github.com/michilcutt/Platform_Computing/assets/145288129/209a7194-3c86-4eb0-b9de-daf901a7601e)
-
+![Screenshot (244)](https://github.com/michilcutt/Platform_Computing/assets/145288129/7e215ece-c37d-465c-9c77-24dabae9d141)
 
 
 ## Notes:
