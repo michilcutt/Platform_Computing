@@ -26,6 +26,12 @@ The following **bonus** features are implemented:
 ![Screenshot (267)](https://github.com/michilcutt/Platform_Computing/assets/145288129/a41afb0c-ec25-458a-a82e-e5d92301d635)
 ![Screenshot (268)](https://github.com/michilcutt/Platform_Computing/assets/145288129/386771b3-9949-402e-ae50-3401fc52efee)
 
+TIMESTAMP (HH:MM:SS),Presence Time (Seconds),Scrolling (Pixels),Name: 
+01:02:45,0.0,0.0,{'Afro Code'}
+01:02:50,5.017545461654663,0.036297640653357534,{'Afro Code'}
+01:02:55,10.032521486282349,0.11820931270204742,{'Afro Code'}
+
+
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
 <ul>
