@@ -15,7 +15,7 @@ def main():
     driver.get("http://localhost:3000/")
     reward_time = 10
     total_reward_time  = 0
-    keyword = "" #this helped with making the presence time 0
+    keyword = "the" #keyword = "" #this helped with making the presence time 0
     for key in keyword:
         if findKeyword(driver, key):
             total_reward_time += reward_time
